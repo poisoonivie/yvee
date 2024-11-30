@@ -1,0 +1,133 @@
+
+<html>
+<head>
+    <link rel="icon" href="muffin.png">
+    <link rel="stylesheet" href="styles.css">
+    <title>Browser Outputs</title>
+
+    <style>
+        @font-face {
+            font-family: 'GhostKidAOEPro';
+            src: url('GhostKidAOE_Pro.otf') format('opentype'),
+                 url('GhostKidAOE_Pro.ttf') format('truetype');
+        }
+        
+        @font-face {
+            font-family: 'Poppins';
+            src: url('Poppins-Bold.ttf') format('truetype');
+            src: url('Poppins-Regular.
+ttf') format('truetype');
+
+        body {
+            background-image: url('notebook.png.');
+            background-repeat: no-repeat;
+ background-attachment: fixed;
+        }
+
+        .header-link {
+            font-family: 'Poppins';
+            font-size: 16px; 
+            color: black; 
+            text-decoration: none;
+        }
+    </style>
+</head>
+
+<body background="bg.png">
+<header id="header" class="header">
+    <div class="max-w-container w-1715 prel">
+        <div class="content-wrap prel">
+            <a href="index.html">
+                <img width="422" height="85" class="logo-img b-lazy b-loaded" alt="Ict Portfolio.com" src="LogoHeader.png">
+            </a>
+
+            <div class="header-links-col">
+                <ul class="header-links-main c-black txt-25-b lh-1 ltr-spc-pos-0_5">
+                    <li class="header-link-item">
+                        <a href="diary.html" class="header-link"> Diary </a>
+                    </li>
+                    <li class="header-link-item">
+                        <a href="browser_outputs.html" class="header-link"> Browser Outputs </a>
+                    </li>
+                    <li class="header-link-item">
+                        <a href="https://wimpykid.com/appearances/" class="header-link"> Get to Know Yvia </a>
+                    </li>
+                    <li class="header-link-item">
+                        <a href="https://wimpykid.com/about-the-author/" class="header-link"> Reflection </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</header>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p style="color: #c7987d; text-align: center; font-family: 'GhostKidAOEPro'; font-size: 50px;">Browser Outputs!</p>
+
+<p style="text-align:center;">
+Below are the codes and browser outputs of the following lessons: <u>Lists</u>, <u>Tables</u>, <u>Links</u>, and <u>Forms</u>.
+</p> 
+<br>
+<hr style="width:30%; margin: auto; background-color: black; border: none; height: 2px;">
+<br>
+<br>
+<br>
+
+<p style="font-family: 'GhostKidAOEPro'; font-size: 45; margin-left: 100px;">Lists</p>
+<table border="1" align="center" style="border-collapse: collapse; width: 50%; margin-left: 100px;">
+    <tr>
+	<td style="padding: 50px; font-size:50px;"> List </td>
+        <td style="padding: 0;"><img src="list_code.png" alt="List Code" width="1500px" height="1500px"></td>
+        <td style="padding: 0;"><img src="list_output.png" alt="List Browser Output" width="1500px" height="1500px"></td>
+    </tr>
+    <tr>
+	<td style="padding: 50px; font-size:50px;"> Nested<br>List </td>
+        <td style="padding: 10px;"><img src="nested_list.png" alt="List Code" width="1500px" height="1500px"></td>
+        <td style="padding: 10px;"><img src="nested_list_output.png" alt="List Browser Output" width="1500px" height="1500px"></td>
+</table>
+
+<br>
+<br>
+
+<p style="font-family: 'GhostKidAOEPro'; font-size: 45; margin-left: 100px;">Tables</p>
+<table border="1" align="center" style="border-collapse: collapse; width: 50%; margin-left: 100px;">
+    <tr>
+        <td style="padding: 0;"><img src="table.png" alt="Table Code" width="1500px" height="1500px"></td>
+        <td style="padding: 0;"><img src="table_output.png" alt="Table Browser Output" width="1500px" height="1500px"></td>
+    </tr>
+</table>
+
+<br>
+<br>
+
+<p style="font-family: 'GhostKidAOEPro'; font-size: 45; margin-left: 100px;">Links</p>
+<table border="1" align="center" style="border-collapse: collapse; width: 50%; margin-left: 100px;">
+    <tr>
+        <td style="padding: 0;"><img src="hyperlink_code.png" alt="Hyperlink Code" width="1500px" height="1500px"></td>
+        <td style="padding: 0;"><img src="hyperlink.png" alt="Hyperlink Browser Output" width="1500px" height="1500px"></td>
+    </tr>
+</table>
+
+<br>
+<br>
+
+<p style="font-family: 'GhostKidAOEPro'; font-size: 45; margin-left: 100px;">Forms</p>
+<table border="1" align="center" style="border-collapse: collapse; width: 50%; margin-left: 100px;">
+    <tr>
+        <td style="padding: 0;"><img src="form_code.png" alt="Form Code" width="1500px" height="1500px"></td>
+        <td style="padding: 0;"><img src="form.png" alt="Form Browser Output" width="1500px" height="1500px"></td>
+    </tr>
+</table>
+
+<br>
+<br>
+
+<p style="text-align: center; font-family: font-size: 20px;">psst! click the "<u>Ict Portfolio.com</u>" logo on the top left to go back to the homepage :-D</p>
+
+<br>
+
+</body>
+</html>
